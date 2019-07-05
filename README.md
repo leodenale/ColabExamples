@@ -12,3 +12,6 @@ References:
 - [Getting Started with Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 - [Various sample Colaboratory notebooks](https://github.com/christianmerkwirth/colabs)
 - [Begin your Deeplearning project with Colab](https://hackernoon.com/begin-your-deep-learning-project-for-free-free-gpu-processing-free-storage-free-easy-upload-b4dba18abebc)
+- [TensorFlow Audio Recognition](https://www.tensorflow.org/tutorials/sequences/audio_recognition)
+- [TensorFlow Android Examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android#prebuilt-components)
+
